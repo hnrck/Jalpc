@@ -2,56 +2,67 @@
 # Welcome to Jekyll!
 
 # Website settings
-title:
-description:
+title: Henrick
+description: Henrick's résumé. Uses Jekyll and github pages. Based on Jalpc Jekyll theme.
 keywords:
+  hnrck,henrick deschamps,henrick,résumé,Ph.D.,engineer,computer science,
+  network,developer,github,gh-pages
 baseurl:
-url:
-img_path:
+url: https://hnrck.github.io
+img_path: /static/assets/img/blog
 
 # author -- index page "about me" section
 author:
-  name:
-  first_name:
-  last_name:
-  avatar:
-  github_username:
-  linkedin_id:
-  facebook_username:
-  twitter_username:
-  email:
+  name: Henrick Deschamps
+  first_name: Henrick
+  last_name: Deschamps
+  avatar: /static/assets/img/landing/me.jpg
+  github_username: hnrck
+  linkedin_id: henrick-deschamps
+  facebook_username: henrick.deschamps
+  twitter_username: dhnrck
+  email: contact@hnrck.pw
+  # TODO(hnrck) add a pdf resume
   cv:
+  # TODO(hnrck) find relevant icons
   skill_icon1:
     - name:
     - name:
   skill_icon2:
     - name:
     - name:
+  # TODO(hnrck) improve this
   desc:
+    Communicating Distributed Systems Engineer,
+    Ph.D. candidate in scheduling of Cyber-Physical simulation
 
+# TODO(hnrck) complete this action
 # comment
 # disqus:
 #   name:
 
+# TODO(hnrck) complete this action
 # analytics
 ## google analytics
 # ga:
 #   id:
 
+# TODO(hnrck) complete this action
 ## google optimize
 # go:
 #   id:
 
+# TODO(hnrck) complete this action
 ## growingIO
 # gio:
 #   id:
 
 ## donation
-donation: off
+donation: 'off'
 
 ## carousels
-index_carousel: on
-blog_carousel: on
+index_carousel: 'on'
+blog_carousel: 'on'
 
 # scss
 sass:
