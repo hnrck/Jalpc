@@ -1,2 +1,63 @@
----
 # careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+---
+- name:
+    detail: Software Engineer, Ph. D. Candidate
+    i18n: company_a
+  desc:
+    detail: Airbus Operation SAS, Toulouse, FRANCE
+    i18n: company_a_desc
+  date:
+    detail: Mar. 2016
+    i18n: company_a_date
+  job:
+    detail: Scheduling of a cyber-physical system simulation. CIFRE (Industrial
+        Agreement of Training through Research).
+    i18n: company_a_job
+  icon: fa-plane
+
+- name:
+    detail: Engineer software development, testing and integration
+    i18n: company_agi
+  desc:
+    detail: Viveris technology, for TAS, Thalès Alenia Space, Toulouse, FRANCE
+    i18n: company_agi_desc
+  date:
+    detail: Dec. 2014
+    i18n: company_agi_date
+  job:
+    detail: Confidential project in satellite communications ground segment.
+    i18n: company_agi_job
+  icon: icon-satellite
+
+- name:
+    detail: Final year project
+    i18n: company_agi
+  desc:
+    detail: AGI, Airbus Group Innovations, Toulouse, FRANCE
+    i18n: company_agi_desc
+  date:
+    detail: Feb. 2014
+    i18n: company_agi_date
+  job:
+    detail: Modelling and simulation of an Ethernet avionic communication
+        network for QoS rules validation. Identified as high-performing intern.
+    i18n: company_agi_job
+  icon: fa-cloud
+
+- name:
+    detail: 4th year internship
+    i18n: company_laas
+  desc:
+    detail: LAAS CNRS, Laboratoire d'Analyse et d'Architecture des Systèmes,
+        Toulouse, FRANCE
+    i18n: company_laas_desc
+  date:
+    detail: Jun. 2013
+    i18n: company_laas_date
+  job:
+    detail: M2M energy efficient communication. Software defined radios for
+        wireless sensors network, with consideration for home automation and
+        avionics applications.
+    i18n: company_laas_job
+  icon: fa-mobile-phone
