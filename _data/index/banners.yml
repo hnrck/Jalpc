@@ -1,2 +1,11 @@
 ---
 # carousel banners section
+
+- src: landing/malaisie_1.jpg
+  title: first banner image
+
+- src: landing/malaisie_2.jpg
+  title: second banner image
+
+- src: landing/malaisie_3.jpg
+  title: third banner image
