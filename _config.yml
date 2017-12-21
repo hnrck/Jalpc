@@ -41,11 +41,10 @@ author:
 # disqus:
 #   name:
 
-# TODO(hnrck) complete this action
 # analytics
 ## google analytics
-# ga:
-#   id:
+ga:
+  id: UA-111511980-1
 
 # TODO(hnrck) complete this action
 ## google optimize
