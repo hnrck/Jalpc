@@ -1,2 +1,36 @@
 ---
 # skills section data
+label: Ability
+id: cs
+# TODO(hnrck) should be improved
+aspects:
+    Linux,
+    Compilation tools (CMake; gradle; stack; llvm; gcc; icecc...),
+    Versioning (git; svn),
+    C / C++,
+    Python,
+    Bash,
+    Java / Kotlin,
+    Haskell,
+    Android,
+    Social,
+    Creativity,
+    Office softwares,
+    Virtualization (VMs; kvm; docker; OpenStack),
+    Network (udp; tcp; ip...)
+
+percentage:
+    85,
+    90,
+    85,
+    95,
+    90,
+    70,
+    50,
+    40,
+    40,
+    50,
+    65,
+    50,
+    80,
+    80
