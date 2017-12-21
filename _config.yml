@@ -46,10 +46,9 @@ author:
 ga:
   id: UA-111511980-1
 
-# TODO(hnrck) complete this action
 ## google optimize
-# go:
-#   id:
+go:
+  id: GTM-523R6D6
 
 # TODO(hnrck) complete this action
 ## growingIO
