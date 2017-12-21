@@ -13,6 +13,12 @@
   tpl: career.html
   css: timeline
 
+- id: academic
+  i18n: nav.academic
+  name: Academic
+  tpl: academic.html
+  css: timeline
+
 - id: skills
   i18n: nav.skills
   name: Skills
