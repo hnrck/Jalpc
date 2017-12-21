@@ -19,6 +19,12 @@
   tpl: academic.html
   css: timeline
 
+- id: publications
+  i18n: nav.publications
+  name: Publications
+  tpl: publications.html
+  css: timeline
+
 - id: skills
   i18n: nav.skills
   name: Skills
