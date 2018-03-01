@@ -1,13 +1,6 @@
 ---
 # projects section data
 
-- name: Secret santa
-  i18n: santa
-  gh_user: hnrck
-  repo: secret-santa
-  img: /static/assets/img/landing/pystmas.png
-  desc: A small and stupid Python script I use for secret santa with my friends.
-
 - name: Simple homemade IoT
   i18n:
   url:
@@ -30,3 +23,10 @@
   img: /static/assets/img/landing/arrow.png
   desc: Implementation of a multithreaded file transfert protocol library in C
     with command line Haskell and python clients
+
+- name: Secret santa
+  i18n: santa
+  gh_user: hnrck
+  repo: secret-santa
+  img: /static/assets/img/landing/pystmas.png
+  desc: A small and stupid Python script I use for secret santa with my friends.
