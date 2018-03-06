@@ -1,6 +1,13 @@
 ---
 # projects section data
 
+- name: pretended-blockchain
+  i18n: pb
+  gh_user: hnrck
+  repo: pretended-blockchain
+  img: /static/assets/img/landing/pretended-blockchain.png
+  desc: A simple implementation of blockchain in Haskell
+
 - name: Simple homemade IoT
   i18n:
   url:
