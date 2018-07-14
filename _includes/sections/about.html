@@ -26,6 +26,9 @@
                     {% if site.author.github_username %}
                     <li><a href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-github"></i></a></li>
                     {% endif %}
+                    {% if site.author.gitlab_username %}
+                    <li><a href="https://gitlab.com/{{ site.author.gitlab_username }}" target="blank"><i class="fa fa-gitlab"></i></a></li>
+                    {% endif %}
                     {% if site.author.linkedin_id %}
                     <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin_id }}" target="blank"><i class="fa fa-linkedin"></i></a></li>
                     {% endif %}
