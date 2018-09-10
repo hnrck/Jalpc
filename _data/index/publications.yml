@@ -29,6 +29,10 @@
       implemented with CERTI, a compliant High-Level Architecture (HLA) RunTime
       Infrastructure (RTI). HLA is an IEEE standard for distributed simulation."
     i18n: pub_erts18_abst
+  keywords:
+    detail: Aeronautics, CPS, ROSACE, Modelling, Simulation, Scheduling, HLA,
+      CERTI
+    i18n: pub_erts18_keywords
   icon: fa-file-text-o
 
 - name:
@@ -59,6 +63,10 @@
       the simple generic mathematical model to the heavy-featured CPS
       simulation."
     i18n: pub_fss17_abst
+  keywords:
+    detail: Satellite constellation, Network communication, Modelling,
+      Simulation, Scheduling, HLA, CERTI, ns-2
+    i18n: pub_fss17_keyword
   icon: fa-file-text-o
 
 - name:
@@ -92,4 +100,7 @@
       applying our formalism to the open-source case study from the ROSACE
       case study."
     i18n: pub_dsrt17_abst
+  keywords:
+    detail: Aeronautics, CPS, Modelling, Simulation, Scheduling, HLA, DSS, CERTI
+    i18n: pub_dsrt17_keyword
   icon: fa-file-text-o
