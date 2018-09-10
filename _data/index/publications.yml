@@ -4,6 +4,7 @@
 
 - name:
     detail: "Coincidence Problem in CPS Simulations: the R-ROSACE Case Study"
+    cluster: 10404789473361905467
     i18n: pub_erts18
   desc:
     detail: "9th European congress on Embedded Real Time Software and
@@ -33,6 +34,7 @@
 - name:
     detail: "Distributing Cyber-Physical Systems Simulation:
       The Satellite Constellation Case"
+    cluster: 8713993573671082834
     i18n: pub_fss17
   desc:
     detail: "5th International Federated and Fractionated Satellite Systems
@@ -62,6 +64,7 @@
 - name:
     detail: Toward a formalism to study the scheduling of cyber-physical
         systems simulations
+    cluster: 8309967183591919001
     i18n: pub_dsrt17
   desc:
     detail: "IEEE/ACM 21st International Symposium on Distributed Simulation
