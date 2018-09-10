@@ -13,6 +13,12 @@
   job:
     detail: Scheduling of a cyber-physical system simulation. CIFRE (Industrial
         Agreement of Training through Research).
+    description: Implementation of a simulation scheduling formalism.
+      Development of an allocation tool compatible with many simulators, and
+      creation of a simulation framework based on HLA. Implementation and
+      analysis of the results on industrial aircraft simulation.
+    keywords: HLA, C, C++, Python, Matlab, Qt, DEVS, AADL, XML, Git, SVN, CMake,
+      Clang
     i18n: company_a_job
   icon: fa-plane
 
@@ -27,6 +33,12 @@
     i18n: company_agi_date
   job:
     detail: Confidential project in satellite communications ground segment.
+    description: Consultant in low level C in user space and kernel space for
+      Thalès Alenia Space. Development of network modules in multi-threaded
+      telecommunication kernel device. Development of Quality of Service
+      library Development of test tools. Analysis of network packet scheduling.
+    keywords: C, Python, scapy, Wireshark, TCPdump, CMake, Git, Jenkins,
+      OpenStack, Clang, kernel programming, network programming
     i18n: company_agi_job
   icon: icon-satellite
 
@@ -42,6 +54,12 @@
   job:
     detail: Modelling and simulation of an Ethernet avionic communication
         network for QoS rules validation. Identified as high-performing intern.
+    description: Mathematic modeling of avionic network in order to validate
+      quality of service rules. OmNet++/OmNest development of network scheduler
+      models (C++ and NED languages). Analysis tools in Python and Excel macro.
+      Analysis and reporting of simulation results.
+    keywords: C++, XML, OmNet++/OmNest, Wireshark, TCPdump, Python, scapy,
+      network programming
     i18n: company_agi_job
   icon: fa-cloud
 
@@ -59,5 +77,11 @@
     detail: M2M energy efficient communication. Software defined radios for
         wireless sensors network, with consideration for home automation and
         avionics applications.
+    description: Manipulation of SDRs (Etus B 100/Etus N 100) and SDR softwares
+      (GNURadio, Minicom, Iris and LabView). Development of physical and mac
+      layers for sensors network. Production of a practical exercises guide with
+      GSM modem and Raspberry pi for engineering students.
+    keywords: C, C++, Python, scapy, Wireshark, TCPdump, GNURadio, SDR, OSI 
+      Model, network programming
     i18n: company_laas_job
   icon: fa-mobile-phone
