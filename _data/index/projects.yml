@@ -1,6 +1,34 @@
 ---
 # projects section data
 
+- name: SEAplanes
+  i18n: pb
+  img: /static/assets/img/landing/seaplanes.png
+  desc: SEAplanes (Simulation Execution Architecture - Proto-Logical-processor
+        Allocation Nodes with Extensible inline Scheduler), is a C++14
+        framework for distributed simulation with real-time and constrained-
+        time capabilities, based on HLA-CERTI, with Qt5 interface.
+
+- name: RROSACE
+  i18n: pb
+  url: https://svn.onera.fr/schedmcore/branches/ROSACE_CaseStudy/redundant/
+  img: /static/assets/img/landing/rrosace.png
+  desc: RROSACE (Redundant - Research Open-Source Avionics and Control
+        Engineering) is an open-source C library of simulation components for
+        redundant longitudinal flight controller simulation based on ROSACE.
+
+- name: allocation-tool
+  i18n: pb
+  img: /static/assets/img/landing/allocation.png
+  desc: Python extensible modular cyber-physical simulation allocation
+        tool.
+        The front-end modules parse simulation logical architecture formalism
+        file, simulation execution architecture file, load an heuristic (*-fit
+        or simulated annealing for now), and generates an intermediate
+        scheduling.
+        The back-end modules generate configuration for industrial simulators,
+        or partially generated code for SEAplanes.
+
 - name: pretended-blockchain
   i18n: pb
   gh_user: hnrck
