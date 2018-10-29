@@ -13,11 +13,22 @@
   job:
     detail: Scheduling of a cyber-physical system simulation. CIFRE (Industrial
         Agreement of Training through Research).
-    description: Implementation of a simulation scheduling formalism.
-      <br>Development of an allocation tool compatible with many simulators, and
-      creation of a simulation framework based on HLA.
-      <br>Implementation and
-      analysis of the results on industrial aircraft simulation.
+    description: "Formalization of Cyber-Physical Systems simulation scheduling:
+        <br> Analysis of simulation packages and formalization of logical
+        simulation components.
+        <br> Analysis of existing simulation frameworks and formalization of
+        execution architecture.
+        <br> Analysis of existing simulations and technical documentations and
+        formalization of simulation constraints.
+        <br> Implementation of RROSACE: a simple redundant flight controller
+        case study based on ROSACE, in Matlab and C.
+        <br> Implementation of SEAplanes: a simulation framework in C++ based
+        on HLA.
+        <br> Implementation of an extensible allocation tool in
+        Python, with multiple real-time tasks allocation heuristics.
+        <br> Tests and publications based on RROSACE and SEAplanes.
+        <br> Tests on real industrial simulation and simulation frameworks."
+
     keywords: HLA, C, C++, Python, Matlab, Qt, DEVS, AADL, XML, Git, SVN, CMake,
       Clang
     i18n: company_a_job
