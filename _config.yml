@@ -34,15 +34,13 @@ author:
   twitter_username: dhnrck
   gplus_id: +HenrickDeschamps
   email: contact@hnrck.io
-  # TODO(hnrck) add a pdf resume
-  cv:
-  # TODO(hnrck) find relevant icons
+  cv: static/assets/resume_henrick_deschamps.pdf
   skill_icon1:
-    - name:
-    - name:
+    - name: fa-cogs
+    - name: icon-cplusplus
   skill_icon2:
-    - name:
-    - name:
+    - name: fa-linux
+    - name: fa-sitemap
   desc: "
     French &#x1F1eb; Communicating Distributed Systems
     engineer &#x1F468&#x200D&#x1F4BB;.
@@ -58,10 +56,9 @@ author:
     Also Haskell and Vim enthusiast &#x1F609;.
     "
 
-# TODO(hnrck) complete this action
 # comment
-# disqus:
-#   name:
+disqus:
+  name: hnrck-io
 
 # analytics
 ## google analytics
