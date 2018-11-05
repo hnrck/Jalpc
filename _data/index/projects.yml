@@ -65,3 +65,20 @@
   repo: secret-santa
   img: /static/assets/img/landing/pystmas.png
   desc: A small and stupid Python script I use for secret santa with my friends.
+
+- name: Contributions to Return Link Encapsulation (RLE) library
+  i18n: pb
+  url: https://forge.net4sat.org/opensand/librle
+  img:
+  desc: Implementation of the ETSI defined standard for RLE, compatible
+        with Linux (user and kernel space).
+        Contributed while working at Viveris for Thalès Alenia Space.
+        Opened and integrated to OpenSand.
+
+- name: Contributions to INET Framework for OMNEST/OMNeT++
+  i18n: pb
+  gh_user: hnrck
+  repo: inet
+  img:
+  desc: Simulation package for OMNEST/OMNeT++ simulators.
+        Correction of minor bugs. Merged into initial project.
