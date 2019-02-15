@@ -8,12 +8,14 @@
     detail: Airbus Operation SAS, Toulouse, FRANCE
     i18n: company_a_desc
   date:
-    detail: Mar. 2016
+    detail: Mar. 2016 - Mar. 2019
     i18n: company_a_date
   job:
     detail: Scheduling of a cyber-physical system simulation. CIFRE (Industrial
         Agreement of Training through Research).
-    description: "Formalization of Cyber-Physical Systems simulation scheduling:
+    i18n: company_a_job
+    description:
+    na: "Formalization of Cyber-Physical Systems simulation scheduling:
         <br> Analysis of simulation packages and formalization of logical
         simulation components.
         <br> Analysis of existing simulation frameworks and formalization of
@@ -31,7 +33,6 @@
 
     keywords: HLA, C, C++, Python, Matlab, Qt, DEVS, AADL, XML, Git, SVN, CMake,
       Clang
-    i18n: company_a_job
   icon: fa-plane
 
 - name:
@@ -45,7 +46,8 @@
     i18n: company_agi_date
   job:
     detail: Confidential project in satellite communications ground segment.
-    description: Consultant in low level C in user space and kernel space for
+    description:
+    na: Consultant in low level C in user space and kernel space for
       Thalès Alenia Space.
       <br>Development of network modules in multi-threaded telecommunication
       kernel device.
@@ -69,7 +71,8 @@
     detail: Modelling and simulation of an Ethernet avionic communication
         network for QoS rules validation.
         <br>Identified as high-performing intern.
-    description: Mathematic modeling of avionic network in order to validate
+    description:
+    na: Mathematic modeling of avionic network in order to validate
       quality of service rules.
       <br>OmNet++/OmNest development of network scheduler models
       (C++ and NED languages).
@@ -94,7 +97,8 @@
     detail: M2M energy efficient communication. Software defined radios for
         wireless sensors network, with consideration for home automation and
         avionics applications.
-    description: Manipulation of SDRs (Etus B 100/Etus N 100) and SDR softwares
+    description:
+    na: Manipulation of SDRs (Etus B 100/Etus N 100) and SDR softwares
       (GNURadio, Minicom, Iris and LabView).
       <br>Development of physical and mac layers for sensors network.
       <br>Production of a practical exercises guide with GSM modem and Raspberry
