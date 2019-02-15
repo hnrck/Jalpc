@@ -68,7 +68,8 @@
 
 - name: Contributions to Return Link Encapsulation (RLE) library
   i18n: pb
-  url: https://forge.net4sat.org/opensand/librle
+  gh_user: viveris
+  repo: librle
   img:
   desc: Implementation of the ETSI defined standard for RLE, compatible
         with Linux (user and kernel space).
@@ -80,5 +81,5 @@
   gh_user: hnrck
   repo: inet
   img:
-  desc: Simulation package for OMNEST/OMNeT++ simulators.
+  desc: Simulation package for OMNEST/OmNeT++ simulators.
         Correction of minor bugs. Merged into initial project.

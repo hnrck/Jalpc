@@ -1,0 +1,70 @@
+{
+
+  "website":{
+    "title": "Henrick Deschamps"
+  },
+
+  "nav":{
+    "home": "Maison",
+    "about_me": "À propos",
+    "academic": "Études",
+    "publications": "Publications",
+    "career": "Carrière",
+    "skills": "Talents",
+    "projects": "Projets",
+    "blog": "Blog",
+    "link": "Liens"
+  },
+
+  "about_me":{
+    "about_me": "À propos de moi",
+    "des": "Ingénieur systèmes distribués communicants 👨‍💻 Français 🇫🇷. Doctorant de l'ISAE-SUPAERO en Informatique, Systèmes et Réseaux de communication. Travaille chez Airbus 🛫 sur l'ordonnancement de la simulation de systèmes Cyber-Physique. ❤  les systèmes critiques distribués temps réel 🖧. Également passionné d'Haskell et de Vim 😉." 
+  },
+
+  "skills":{
+    "my_skills": "Mes Talents"
+  },
+
+  "academic":{
+    "my_academic": "Mes Études",
+
+    "aca_isae": "(En cours) Doctorat en Informatique, Systèmes, et Réseaux de communication",
+    "aca_isae_des": "ISAE-SUPAERO, Institut Supérieur de l'Aéronautique et de l'Espace, Toulouse, France",
+    "aca_isae_date": "2016 - 2019",
+    "aca_isae_job": "Doctorat sur l'ordonnancement temps réel de simulation de systèmes cyber-physiques.",
+
+    "": ""
+  },
+
+  "publications":{
+    "my_publications": "Mes Publications",
+    
+    "": ""
+  },
+
+  "projects":{
+    "my_projects": "Mes Projets",
+    
+    "": ""
+  },
+
+  "career":{
+    "my_career": "Ma Carrière",
+
+    "company_a": "Ingénieur en informatique, doctorant",
+    "company_a_desc": "Airbus Commercial Aircraft, Toulouse, France",
+    "company_a_date": "Mars 2016 - Mars 2019",
+    "company_a_job": "Ordonnancement d'une simulation de système cyber-physique. CIFRE (Convention Industrielle de Formation par la Recherche).",
+
+    "": ""
+  },
+
+  "blog":{
+    "my_blog": "Mon Blog"
+  },
+
+  "link":{
+    "link": "Liens"
+  }
+
+}
