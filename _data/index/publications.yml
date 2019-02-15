@@ -3,6 +3,39 @@
 ---
 
 - name:
+    detail: "Implementation of a Cyber-Physical Systems simulation components
+    allocation tool"
+    cluster: 809749533240704673
+    i18n: pub_erts18
+  desc:
+    detail: "32nd annual European Simulation and Modelling Conference
+    (ESM®'2018)"
+    i18n: pub_erts18_desc
+  date:
+    detail: Nov. 8, 2018
+    i18n: pub_erts18_date
+  abst:
+    detail:
+    na: "This paper presents ongoing work on the formalism of Cyber-Physical
+    Systems (CPS) simulations. In this paper, we consider distributed CPS
+    simulations, for which there are strong constraints on the interaction of
+    simulation components. In our previous work, we suggested a method to
+    estimate a simulation scheduling on a given architecture and to verify
+    constraints a priori. Trying to integrate these components manually is very
+    timeconsuming, and can lead to mistakes. We introduce a tool to make an
+    automatic allocation and scheduling of CPS simulation. We base this on the
+    real-time scheduling literature and adopt a heuristic-based approach,
+    adapted to our framework. We then present a complete case study, including
+    simulations and the physical architecture of the simulations, and we
+    illustrate the generation of the scheduling with diﬀerent heuristics."
+    i18n: pub_erts18_abst
+  keywords:
+    detail: "Aeronautics, CPS, Modelling, Simulation, Allocation,Scheduling,
+    HLA, CERTI."
+    i18n: pub_erts18_keywords
+  icon: fa-file-text-o
+
+- name:
     detail: "Coincidence Problem in CPS Simulations: the R-ROSACE Case Study"
     cluster: 10404789473361905467
     i18n: pub_erts18
@@ -14,7 +47,8 @@
     detail: Feb. 1, 2018
     i18n: pub_erts18_date
   abst:
-    detail: "This paper presents ongoing work on the formalism of Cyber-Physical
+    detail:
+    na: "This paper presents ongoing work on the formalism of Cyber-Physical
       Systems (CPS) simulations. We focus on a distributed simulations
       architecture for CPS, where the running simulators exist in concurrent and
       sequential domains. This architecture of simulation allows the expression
@@ -48,7 +82,8 @@
     detail: Nov. 3, 2017
     i18n: pub_fss17_date
   abst:
-    detail: "The goal of this position paper is to contribute for the improving
+    detail:
+    na: "The goal of this position paper is to contribute for the improving
       of Cyber-Physical System (CPS) simulations by introducing distribution.
       CPS use computations and communication tightly interacting with physical
       processes. So a CPS simulation needs to tackle with three kinds of
@@ -82,7 +117,8 @@
     detail: Oct. 18, 2017
     i18n: pub_dsrt17_date
   abst:
-    detail: "This paper presents ongoing work on the formalism of Cyber-Physical
+    detail:
+    na: "This paper presents ongoing work on the formalism of Cyber-Physical
       Systems (CPS) simulations. These systems are distributed real-time
       systems, and their simulations might be distributed or not. In this
       paper, we propose a model to describe the modular components forming a
