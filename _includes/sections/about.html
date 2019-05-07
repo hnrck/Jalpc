@@ -44,11 +44,17 @@
                     {% if site.author.gplus_id %}
                     <li><a href="https://plus.google.com/{{ site.author.gplus_id }}" target="blank"><i class="fa fa-google-plus"></i></a></li>
                     {% endif %}
+                    {% if site.author.keybase_user %}
+                    <li><a href="https://keybase.io/{{ site.author.keybase_user }}" target="blank"><i class="fa fa-keybase"></i></a></li>
+                    {% endif %}
                     {% if site.author.email %}
                     <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a></li>
                     {% endif %}
                     <li><a href="{{ site.baseurl }}/feed.xml" target="blank"><i class="fa fa-rss"></i></a></li>
                     {% if site.author.cv %}
+                    <li><a href="{{ site.author.cv }}" target="blank"><i class="fa fa-file-pdf-o"></i></a></li>
+                    {% endif %}
+                    {% if site.author.resume %}
                     <li><a href="{{ site.author.cv }}" target="blank"><i class="fa fa-file-pdf-o"></i></a></li>
                     {% endif %}
                 </ul>

@@ -33,8 +33,10 @@ author:
   facebook_username: henrick.deschamps
   twitter_username: dhnrck
   gplus_id: +HenrickDeschamps
+  keybase_user: hnrck
   email: contact@hnrck.io
-  cv: static/assets/resume_henrick_deschamps.pdf
+  cv: static/assets/cv_henrick_deschamps.pdf
+  resume: static/assets/resume_henrick_deschamps.pdf
   skill_icon1:
     - name: fa-cogs
     - name: icon-cplusplus
