@@ -4,15 +4,10 @@
 # Website settings
 title: Henrick Deschamps
 description: "Henrick Deschamps.
-  French &#x1F1eb; Communicating Distributed Systems
-  engineer &#x1F468&#x200D&#x1F4BB;.
-  ISAE-SUPAÉRO Ph.D. candidate in Network communications, Systems and
-  Software.
-  Working at Airbus &#x1F6eb; on scheduling of Cyber-Physical Scheduling
-  simulation.
-  In &#x2764; with critical Real-Time distributed systems &#x1F5a7;.
-  Also Haskell and Vim enthusiast &#x1F609;.
-  "
+  French &#x1F1eb; Communicating Distributed Systems Ph. D. and engineer &#x1F468&#x200D&#x1F4BB;, I am Interested in real-time distributed systems.
+  I am looking for serious technological challenges.
+  I would like to contribute to the conception and implementation of complex systems in a team, and to participate in the demonstration of these systems"
+
 keywords:
   hnrck,henrick deschamps,henrick,résumé,Ph.D.,engineer,computer science,
   network,developer,github,gh-pages
@@ -44,18 +39,10 @@ author:
     - name: fa-linux
     - name: fa-sitemap
   desc: "
-    French &#x1F1eb; Communicating Distributed Systems
-    engineer &#x1F468&#x200D&#x1F4BB;.
+    French &#x1F1eb; Communicating Distributed Systems Ph. D. and engineer &#x1F468&#x200D&#x1F4BB;, I am Interested in real-time distributed systems.
     <br>
-    ISAE-SUPAÉRO Ph.D. candidate in Network communications, Systems and
-    Software.
-    <br>
-    Working at Airbus &#x1F6eb; on scheduling of Cyber-Physical System
-    simulation.
-    <br>
-    In &#x2764; with critical Real-Time distributed systems &#x1F5a7;.
-    <br>
-    Also Haskell and Vim enthusiast &#x1F609;.
+    I am looking for serious technological challenges.
+    I would like to contribute to the conception and implementation of complex systems in a team, and to participate in the demonstration of these systems
     "
 
 # comment
