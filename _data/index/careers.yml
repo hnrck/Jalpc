@@ -24,10 +24,10 @@
   icon: fa-cogs
 
 - name:
-    detail: Software Engineer, Ph. D. Candidate
+    detail: Research and Teaching Assistant, Ph. D. Candidate
     i18n: company_i
   desc:
-    detail: Research and Teaching Assistant, Toulouse, FRANCE
+    detail: ISAE-SUPAERO, Toulouse, FRANCE
     i18n: company_i_desc
   date:
     detail: Mar. 2016 - Aug. 2019
@@ -36,7 +36,7 @@
     detail: Teaching assistant in C, Java, Real-time systems, SysML, and numerical analysis.
     i18n: company_a_job
     description:
-      na: "Teachig assistant"
+    na: "Teachig assistant"
 
     keywords: HLA, C, C++, Python, Matlab, Qt, DEVS, SysML, Java, Git, SVN, CMake, Clang
   icon: fa-graduation-cap
