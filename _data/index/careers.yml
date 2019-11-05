@@ -1,6 +1,46 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 ---
+
+- name:
+    detail: IT Solution Engineer, IVV team
+    i18n: company_a
+  desc:
+    detail: Thales Group, Toulouse, FRANCE
+    i18n: company_t_desc
+  date:
+    detail: Sep. 2019 - Now
+    i18n: company_t_date
+  job:
+    detail: Integration and Validation Engineer for big near real-time computing systems
+    i18n: company_a_job
+    description:
+    na: "Contribution to the analysis and validation of the implementation of a big data system.
+    <br> Identification of problems within a defined perimeter and reporting.
+    <br> Responsibility for the design and development of inspection tools.
+    <br> Supervision of a junior associate for the implementation of inspection tools."
+
+    keywords: Python, Kafka, ELK
+  icon: fa-cogs
+
+- name:
+    detail: Software Engineer, Ph. D. Candidate
+    i18n: company_i
+  desc:
+    detail: Research and Teaching Assistant, Toulouse, FRANCE
+    i18n: company_i_desc
+  date:
+    detail: Mar. 2016 - Aug. 2019
+    i18n: company_i_date
+  job:
+    detail: Teaching assistant in C, Java, Real-time systems, SysML, and numerical analysis.
+    i18n: company_a_job
+    description:
+      na: "Teachig assistant"
+
+    keywords: HLA, C, C++, Python, Matlab, Qt, DEVS, SysML, Java, Git, SVN, CMake, Clang
+  icon: fa-graduation-cap
+
 - name:
     detail: Software Engineer, Ph. D. Candidate
     i18n: company_a
