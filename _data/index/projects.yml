@@ -9,11 +9,11 @@
         framework for distributed simulation with real-time and constrained-
         time capabilities, based on HLA-CERTI, with Qt5 interface.
 
-- name: RROSACE
+- name: rrosace
   i18n: pb
   gh_user: hnrck
   repo: rrosace
-  img:  https://github.com/hnrck/rrosace/blob/master/res/rrosace.png
+  img:  /static/assets/img/landing/rrosace.png
   desc: RROSACE (Redundant - Research Open-Source Avionics and Control
         Engineering) is an open-source C library of simulation components for
         redundant longitudinal flight controller simulation based on ROSACE.
