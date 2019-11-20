@@ -13,7 +13,7 @@
   i18n: pb
   gh_user: hnrck
   repo: rrosace
-  img:
+  img:  https://github.com/hnrck/rrosace/blob/master/res/rrosace.png
   desc: RROSACE (Redundant - Research Open-Source Avionics and Control
         Engineering) is an open-source C library of simulation components for
         redundant longitudinal flight controller simulation based on ROSACE.
