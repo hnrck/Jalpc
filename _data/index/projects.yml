@@ -37,13 +37,13 @@
   img: /static/assets/img/landing/pretended-blockchain.png
   desc: A simple implementation of blockchain in Haskell
 
-- name: Simple homemade IoT
-  i18n:
-  url:
-  img: /static/assets/img/landing/iot.png
-  desc: Wireless sensors network with Arduinos and Raspberry Pi, development
-    of drivers in C, Ada and ARM assembly, python server with MySQL, and web
-    interface for monitoring.
+#- name: Simple homemade IoT
+#  i18n:
+#  url:
+#  # img: /static/assets/img/landing/iot.png
+#  desc: Wireless sensors network with Arduinos and Raspberry Pi, development
+#    of drivers in C, Ada and ARM assembly, python server with MySQL, and web
+#    interface for monitoring.
 
 - name: B.A.T.M.A.N. on drone
   i18n: batman
@@ -53,12 +53,12 @@
     on embedded Linux for drones and on-ground router for quick deployment of
     access networks.
 
-- name: Simple File Transfert Protocol
-  i18n: sftp
-  url:
-  img: /static/assets/img/landing/arrow.png
-  desc: Implementation of a multithreaded file transfert protocol library in C
-    with command line Haskell and python clients
+#- name: Simple File Transfert Protocol
+#  i18n: sftp
+#  url:
+#  # img: /static/assets/img/landing/arrow.png
+#  desc: Implementation of a multithreaded file transfert protocol library in C
+#    with command line Haskell and python clients
 
 - name: Secret santa
   i18n: santa
@@ -71,7 +71,7 @@
   i18n: pb
   gh_user: viveris
   repo: librle
-  img:
+  # img:
   desc: Implementation of the ETSI defined standard for RLE, compatible
         with Linux (user and kernel space).
         Contributed while working at Viveris for Thalès Alenia Space.
@@ -81,6 +81,6 @@
   i18n: pb
   gh_user: hnrck
   repo: inet
-  img:
+  # img:
   desc: Simulation package for OMNEST/OmNeT++ simulators.
         Correction of minor bugs. Merged into initial project.
