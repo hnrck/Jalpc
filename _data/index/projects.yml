@@ -21,6 +21,7 @@
 - name: allocation-tool
   i18n: pb
   img: /static/assets/img/landing/allocation.png
+  url: https://scholar.google.fr/scholar?oi=bibs&hl=fr&cluster=809749533240704673
   desc: Python extensible modular cyber-physical simulation allocation
         tool.
         The front-end modules parse simulation logical architecture formalism
