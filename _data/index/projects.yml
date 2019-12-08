@@ -1,8 +1,10 @@
 ---
 # projects section data
 
-- name: SEAplanes
+- name: seaplanes
   i18n: pb
+  gh_user: hnrck
+  repo: seaplanes
   img: /static/assets/img/landing/seaplanes.png
   desc: SEAplanes (Simulation Execution Architecture - Proto-Logical-processor
         Allocation Nodes with Extensible inline Scheduler), is a C++14
